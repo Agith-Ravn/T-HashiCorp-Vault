@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\AgithRavn\\Documents\\GitHub\\Agith-ziot-vault-spike\\VaultTest1\\VaultTest1.csproj",
+      "projectUniqueName": "C:\\Users\\AgithRavn\\Documents\\GitHub\\HashiCorp-Vault-Test\\VaultTest1\\VaultTest1.csproj",
       "projectName": "VaultTest1",
-      "projectPath": "C:\\Users\\AgithRavn\\Documents\\GitHub\\Agith-ziot-vault-spike\\VaultTest1\\VaultTest1.csproj",
+      "projectPath": "C:\\Users\\AgithRavn\\Documents\\GitHub\\HashiCorp-Vault-Test\\VaultTest1\\VaultTest1.csproj",
       "packagesPath": "C:\\Users\\AgithRavn\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\AgithRavn\\Documents\\GitHub\\Agith-ziot-vault-spike\\VaultTest1\\obj\\",
+      "outputPath": "C:\\Users\\AgithRavn\\Documents\\GitHub\\HashiCorp-Vault-Test\\VaultTest1\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\AgithRavn\\AppData\\Roaming\\NuGet\\NuGet.Config",

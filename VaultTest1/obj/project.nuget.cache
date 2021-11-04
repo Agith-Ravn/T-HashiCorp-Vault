@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "tS4KILxiMuwdDUMsRW1NaeuVN4HrySV4SNMY4BXU4wds3CYQvLj8u45xbDjudv9g8Kt90cdj5ebdCwo5omJ8UA==",
+  "dgSpecHash": "BG2PJjJqDl56kxXStse/rrrsRgEtFE5j5GUK1vkMSaI3LmB77ikTgA0EXkO2/HyUeXtTHEM/xbPZKYX+qQheog==",
   "success": true,
-  "projectFilePath": "C:\\Users\\AgithRavn\\Documents\\GitHub\\Agith-ziot-vault-spike\\VaultTest1\\VaultTest1.csproj",
+  "projectFilePath": "C:\\Users\\AgithRavn\\Documents\\GitHub\\HashiCorp-Vault-Test\\VaultTest1\\VaultTest1.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

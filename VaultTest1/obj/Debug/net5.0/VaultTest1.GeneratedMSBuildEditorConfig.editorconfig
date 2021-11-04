@@ -7,4 +7,4 @@ build_property.PublishSingleFile =
 build_property.IncludeAllContentForSelfExtract = 
 build_property._SupportedPlatformList = Android,iOS,Linux,macOS,Windows
 build_property.RootNamespace = VaultTest1
-build_property.ProjectDir = C:\Users\AgithRavn\Documents\GitHub\Agith-ziot-vault-spike\VaultTest1\
+build_property.ProjectDir = C:\Users\AgithRavn\Documents\GitHub\HashiCorp-Vault-Test\VaultTest1\
